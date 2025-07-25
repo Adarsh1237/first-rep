@@ -1,2 +1,4 @@
  this is the file
  another and folder to commit  
+ another file
+ file
